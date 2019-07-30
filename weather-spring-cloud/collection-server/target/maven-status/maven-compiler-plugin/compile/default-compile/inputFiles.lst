@@ -1,0 +1,12 @@
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\config\QuartzConfiguration.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\entity\Forecast.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\service\CityClient.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\entity\Yesterday.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\service\WeatherDataService.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\entity\Weather.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\service\Impl\WeatherDataServiceImpl.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\CollectionApplication.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\entity\City.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\utils\WeatherDataSyncJob.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\config\RestConfiguration.java
+E:\Code\Java\weather\weather-spring-cloud\collection-server\src\main\java\com\gavin\weather\collection\entity\WeatherResponse.java

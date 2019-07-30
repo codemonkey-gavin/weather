@@ -1,0 +1,17 @@
+server:
+  port: 8015
+spring:
+  application:
+    name: weather-report-server
+feign:
+  client:
+    config:
+      feignName:
+        connect-timeout: 5000
+        read-timeout: 5000
+  hystrix:
+    enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8000/eureka

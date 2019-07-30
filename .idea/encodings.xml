@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/city-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/collection-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/data-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/eureka-zuul-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/report-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/weather-spring-cloud/zuul-server1" charset="UTF-8" />
+  </component>
+</project>
